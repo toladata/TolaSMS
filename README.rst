@@ -1,5 +1,5 @@
 
-Tolasms
+TolaSMS
 ========================
 
 Below you will find basic setup instructions for the ``TolaSMS``
